@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 changees after the merge
 
 makes changes
 
+=======
+this is 1st time
+>>>>>>> c418bab4e86bad27dfc05a7f28245b98754a6a6d
